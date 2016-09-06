@@ -2,7 +2,7 @@
 
 My Time Table
 
-| Monday | Tuesday | Wednesday | Thursday | Friday
+----| Monday | Tuesday | Wednesday | Thursday | Friday
 ----|------|------|------|------|------|------|------|
 08:00-08:50|  |  | | Newnham Campus | |
 08:55-09:45| | BTP100L | | Newnham Campus | |
