@@ -1,5 +1,5 @@
 /*Write a program to print positive numbers from 1 to 100 on the screen:
-0,2,4,…,100.
+0,1,2,…,100.
 */
 #include<stdio.h>
 int main()
